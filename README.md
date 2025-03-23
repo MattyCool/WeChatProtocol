@@ -19,6 +19,8 @@
 ### 接口说明
 官方网站:http://www.vxapi.ml
 文档说明:http://showdoc.vxapi.ml/web/#/5/23
+联系QQ:1071739
+联系telegram:@hackjoey
 
 #### 实时同步消息
 
